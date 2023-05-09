@@ -4,7 +4,7 @@ body {
 }
 
 #main {
-  background-image: linear-gradient(to left top, #a363ce, #aa6ed2, #b278d5, #b983d9, #c08ddd, #c08fde, #bf92e0, #bf94e1, #b78fe0, #ae8ae0, #a585df, #9b80df);
+  background-image: linear-gradient(to right top, #916ad1, #946cd1, #966fd2, #9971d2, #9b74d3, #9e78d5, #a07dd8, #a381da, #a789df, #ab90e3, #af98e8, #b39fec);
   width: 100%;
   padding-bottom: 10px;
 }
